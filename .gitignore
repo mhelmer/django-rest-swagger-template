@@ -1,0 +1,6 @@
+/db.sqlite3
+.env
+*.pyc
+/components
+/workout/settings_local.py
+/bower_components
